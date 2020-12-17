@@ -7,4 +7,4 @@ https://www.mavenanalytics.io/blog/new-years-resolution-challenge?utm_source=lin
 * Records contain the date & time of the tweet, geographic location, full text, and category
 
 # Result
-![Image](https://github.com/HarshBathia/Power-BI-Dashboards/blob/main/New_years_resolutions/images/Capture.PNG)
+![Image](https://github.com/HarshBathia/Power-BI-Dashboards/blob/main/New_years_resolutions/images/FinalSubmission.png)
