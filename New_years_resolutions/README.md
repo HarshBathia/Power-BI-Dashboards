@@ -8,3 +8,6 @@ https://www.mavenanalytics.io/blog/new-years-resolution-challenge?utm_source=lin
 
 # Result
 ![Image](https://github.com/HarshBathia/Power-BI-Dashboards/blob/main/New_years_resolutions/images/FinalSubmission.png)
+
+# Dash Board 2
+![Image](https://github.com/HarshBathia/Power-BI-Dashboards/blob/main/New_years_resolutions/images/updated_submission.png)
