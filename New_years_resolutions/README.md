@@ -11,3 +11,6 @@ https://www.mavenanalytics.io/blog/new-years-resolution-challenge?utm_source=lin
 
 # Dash Board 2
 ![Image](https://github.com/HarshBathia/Power-BI-Dashboards/blob/main/New_years_resolutions/images/updated_submission.png)
+
+# Dash Board 3
+![Image](https://github.com/HarshBathia/Power-BI-Dashboards/blob/main/New_years_resolutions/images/sentimen_hashtag_added.png)
